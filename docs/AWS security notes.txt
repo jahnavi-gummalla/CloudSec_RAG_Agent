@@ -1,0 +1,23 @@
+AWS IAM Best Practices
+
+1. Enable MFA for all users.
+2. Use least privilege access.
+3. Rotate access keys regularly.
+4. Avoid using the root account.
+5. Monitor suspicious API activity using CloudTrail.
+
+Amazon S3 Security
+
+1. Block public access for buckets.
+2. Enable bucket versioning.
+3. Use server-side encryption.
+4. Configure bucket policies carefully.
+5. Monitor access logs.
+
+Incident Response
+
+1. Identify compromised resources.
+2. Rotate credentials immediately.
+3. Analyze CloudTrail logs.
+4. Isolate affected workloads.
+5. Document findings and remediation steps.
