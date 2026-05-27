@@ -1,5 +1,9 @@
 # Agentic AI Workflow with Retrieval-Augmented Generation on AWS
 
+## Architecture
+
+![CloudSec RAG Agent Architecture](assets/cloudsec-rag-architecture.png)
+
 ## Project Overview
 
 This project is an AWS-powered Agentic AI assistant that uses Retrieval-Augmented Generation to answer questions from cloud security and AWS documentation.
